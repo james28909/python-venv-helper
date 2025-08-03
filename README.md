@@ -1,6 +1,6 @@
-#This is just a personal helper script/function I use to help create and manage virtual environments in Python.
+## This is just a personal helper script/function I use to help create and manage virtual environments in Python.
 
-##Usage:
+### Usage:
 
 venv help
 venv [command] [arg]
