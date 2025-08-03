@@ -1,5 +1,4 @@
-## This is just a personal helper script/function I use to help create and manage virtual environments in Python.  
-<br>
+## This is just a personal helper script/function I use to help create and manage virtual environments in Python.<br>
 ```venv help  
 venv [command] [arg]
 
