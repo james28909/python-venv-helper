@@ -1,6 +1,5 @@
 ## This is just a personal helper script/function I use to help create and manage virtual environments in Python.
-
-
+  
 ```venv help  
 venv [command] [arg]
 
