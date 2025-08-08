@@ -14,3 +14,8 @@ commands:
   install | i <name>    install from requirements.txt in virtualenv
   (no args)             list all available virtual environments
 ```
+
+Just add this to $ZSH_CUSTOM/functions.zsh and source $ZSH_CUSTOM/functions.zsh
+The $ZSH_CUSTOM dir gets sourced at login which will include the function everytime you log in.
+
+If you find any bugs please lket me know or make a pull request and i will review it and merge it if there are no problems
